@@ -18,9 +18,9 @@ A structured repository documenting my journey through core Java programming con
 java-core-foundations/
 ├── src/
 │   ├── basics/
-│   │   ├── control_flow/         # if-else, switch statements, branching
-│   │   ├── loops/                # for, while, do-while loops, nested loops
-│   │   └── operators/            # arithmetic, logical, relational operators
+│   │   ├── control_flow/         
+│   │   ├── loops/               
+│   │   └── operators/          
 │   ├── oop/
 │   │   ├── encapsulation/
 │   │   ├── inheritance/
